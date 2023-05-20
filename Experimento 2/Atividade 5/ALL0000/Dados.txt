@@ -1,0 +1,5 @@
+Trem		Nominal		Medido
+=================================================
+Resistor	47 oemns	47.8 += 0.1
+Indutor		7.8		8.2 += 0.1 ohms	
+Capacitor	1mF		1.023 += 0.002 mFrasd
